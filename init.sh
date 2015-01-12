@@ -3,6 +3,6 @@ unzip 2.6.2.zip
 rm 2.6.2.zip
 mv reveal.js-2.6.2 reveal
 npm install
-./cli.js test.html > reveal/index.html
+./cli.js slides.html > reveal/index.html
 cd reveal
 serve
