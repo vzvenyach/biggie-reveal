@@ -10,7 +10,7 @@ Make changes to `slides.html` and then, when you're ready:
 
 ```
 ./init.sh
-npm run serve`
+npm run serve
 ```
 
 Go to <http://localhost:3000> and enjoy!
