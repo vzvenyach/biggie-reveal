@@ -1,6 +1,6 @@
 # Biggie-Reveal
 
-Inspired by[Biggie](https://github.com/tmcw/biggie) and [Reveal.js](https://github.com/hakimel/reveal.js), this is a grown-up, but hacker-friendly HTML presentation framework. 
+Inspired by [Biggie](https://github.com/tmcw/biggie) and [Reveal.js](https://github.com/hakimel/reveal.js), this is a grown-up, but hacker-friendly HTML presentation framework. 
 
 ## Usage
 
