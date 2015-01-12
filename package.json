@@ -21,8 +21,8 @@
     "test": "test"
   },
   "scripts":{
-    "serve": "cd reveal && serve", 
-    "watch": "watch -m slides.html './cli.js slides.html > reveal/index.html'",
+    "serve": "cd reveal && node ../node_modules/.bin/serve", 
+    "watch": "node node_modules/.bin/watch -m slides.html './cli.js slides.html > reveal/index.html'",
     "start": "npm run serve & npm run watch"
   },
   "license": "MIT"
