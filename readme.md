@@ -8,7 +8,10 @@ Inspired by [Biggie](https://github.com/tmcw/biggie) and [Reveal.js](https://git
 
 Make changes to `slides.html` and then, when you're ready:
 
-`./init.sh`
+```
+./init.sh
+npm run serve`
+```
 
 Go to <http://localhost:3000> and enjoy!
 
