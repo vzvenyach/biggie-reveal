@@ -16,6 +16,7 @@ function convert(data) {
     }).join('\n');
 
     output = template({
+        title: argv.title || "Biggie-Reveal",
         content: divs
     })
 
