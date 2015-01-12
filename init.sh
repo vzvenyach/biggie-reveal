@@ -4,5 +4,4 @@ rm 2.6.2.zip
 mv reveal.js-2.6.2 reveal
 npm install
 ./cli.js slides.html > reveal/index.html
-cd reveal
-serve
+cd reveal && ./../node_modules/serve/bin/serve

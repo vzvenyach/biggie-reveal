@@ -13,7 +13,8 @@
   "dependencies": {
     "minimist": "*",
     "swig": "*",
-    "concat-stream": "*"
+    "concat-stream": "*",
+    "serve":"*"
   },
   "main": "node cli.js",
   "directories": {
