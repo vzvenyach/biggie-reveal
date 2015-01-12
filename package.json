@@ -1,0 +1,23 @@
+{
+  "name": "biggie-reveal",
+  "version": "0.1.0",
+  "description": "The HTML Presentation Framework with Biggie",
+  "author": "V. David Zvenyach <vdavez@gmail.com> (https://esq.io)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vzvenyach/biggie-reveal.git"
+  },
+  "engines": {
+    "node": "~0.8.0"
+  },
+  "dependencies": {
+    "minimist": "*",
+    "swig": "*",
+    "concat-stream": "*"
+  },
+  "main": "node cli.js",
+  "directories": {
+    "test": "test"
+  },
+  "license": "MIT"
+}
