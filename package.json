@@ -1,6 +1,6 @@
 {
   "name": "biggie-reveal",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "The HTML Presentation Framework with Biggie",
   "author": "V. David Zvenyach <vdavez@gmail.com> (https://esq.io)",
   "repository": {
@@ -14,7 +14,8 @@
     "minimist": "*",
     "swig": "*",
     "concat-stream": "*",
-    "serve":"*"
+    "serve":"*",
+    "express":"*"
   },
   "main": "node cli.js",
   "directories": {
