@@ -22,7 +22,7 @@
   },
   "scripts":{
     "serve": "cd reveal && node ../node_modules/.bin/serve", 
-    "watch": "node node_modules/.bin/watch -m slides.html './cli.js slides.html > reveal/index.html'",
+    "watch": "node node_modules/.bin/watch -m slides.md './cli.js slides.md > reveal/index.html'",
     "start": "npm run serve & npm run watch"
   },
   "license": "MIT"
