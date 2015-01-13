@@ -6,10 +6,9 @@ Inspired by [Biggie](https://github.com/tmcw/biggie) and [Reveal.js](https://git
 
 `git clone https://github.com/vzvenyach/biggie-reveal.git && cd biggie-reveal`
 
-Make changes to `slides.html` and then, when you're ready:
+Make changes to `slides.md` and then, when you're ready:
 
 ```
-./init.sh
 npm run serve
 ```
 
