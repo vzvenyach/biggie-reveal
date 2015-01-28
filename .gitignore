@@ -1,2 +1,4 @@
 node_modules/
 #reveal
+npm-debug.log
+.DS_Store
