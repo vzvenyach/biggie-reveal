@@ -4,7 +4,13 @@ Inspired by [Biggie](https://github.com/tmcw/biggie) and [Reveal.js](https://git
 
 ## Usage
 
-`git clone https://github.com/vzvenyach/biggie-reveal.git && cd biggie-reveal`
+Download the app and install dependenciesL
+
+```
+git clone https://github.com/vzvenyach/biggie-reveal.git
+cd biggie-reveal
+npm install
+```
 
 Make changes to `slides.md` and then, when you're ready:
 
